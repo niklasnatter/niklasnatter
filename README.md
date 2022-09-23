@@ -1,4 +1,4 @@
-### Hi there 👋
+Hey 👋 I am a full stack software developer and open source enthusiast. I enjoy building usable applications, working on challenging problems, experimenting with new technologies and tinkering with my shell configuration.
 
 <!--
 **niklasnatter/niklasnatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
