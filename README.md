@@ -1,6 +1,8 @@
-**Hey there 👋** 
+**Hey there 👋** I am a full stack software developer and open source enthusiast. I enjoy building usable applications, working on challenging problems, experimenting with new technologies and tinkering with my shell configuration. In my freetime, you can find me exploring new places by foot or touring the mountains with my skis.
 
-I am a full stack software developer and open source enthusiast. I enjoy building usable applications, working on challenging problems, experimenting with new technologies and tinkering with my shell configuration. I like to dive deep into libraries, frameworks and languages and tackling problems by solving their root cause. In my freetime, you can find me exploring new places by foot or mountains with my skis.
+<!--
+I like to dive deep into libraries, frameworks and languages and tackling problems by solving their root cause.
+-->
 
 <!--
 **niklasnatter/niklasnatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
